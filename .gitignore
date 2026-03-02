@@ -1,0 +1,5 @@
+git rm -r --cached .vs
+git rm -r --cached packages
+git add .
+git commit -m "chore: remove unnecessary files and add gitignore"
+git push origin main
