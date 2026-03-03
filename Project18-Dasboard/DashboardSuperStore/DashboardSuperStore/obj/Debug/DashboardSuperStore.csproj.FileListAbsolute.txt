@@ -1,0 +1,10 @@
+C:\all_projects\CSharp-Mini-Projects-Archive\Project18-Dasboard\DashboardSuperStore\DashboardSuperStore\bin\Debug\DashboardSuperStore.exe.config
+C:\all_projects\CSharp-Mini-Projects-Archive\Project18-Dasboard\DashboardSuperStore\DashboardSuperStore\bin\Debug\DashboardSuperStore.exe
+C:\all_projects\CSharp-Mini-Projects-Archive\Project18-Dasboard\DashboardSuperStore\DashboardSuperStore\bin\Debug\DashboardSuperStore.pdb
+C:\all_projects\CSharp-Mini-Projects-Archive\Project18-Dasboard\DashboardSuperStore\DashboardSuperStore\obj\Debug\DashboardSuperStore.csproj.AssemblyReference.cache
+C:\all_projects\CSharp-Mini-Projects-Archive\Project18-Dasboard\DashboardSuperStore\DashboardSuperStore\obj\Debug\DashboardSuperStore.Form1.resources
+C:\all_projects\CSharp-Mini-Projects-Archive\Project18-Dasboard\DashboardSuperStore\DashboardSuperStore\obj\Debug\DashboardSuperStore.Properties.Resources.resources
+C:\all_projects\CSharp-Mini-Projects-Archive\Project18-Dasboard\DashboardSuperStore\DashboardSuperStore\obj\Debug\DashboardSuperStore.csproj.GenerateResource.cache
+C:\all_projects\CSharp-Mini-Projects-Archive\Project18-Dasboard\DashboardSuperStore\DashboardSuperStore\obj\Debug\DashboardSuperStore.csproj.CoreCompileInputs.cache
+C:\all_projects\CSharp-Mini-Projects-Archive\Project18-Dasboard\DashboardSuperStore\DashboardSuperStore\obj\Debug\DashboardSuperStore.exe
+C:\all_projects\CSharp-Mini-Projects-Archive\Project18-Dasboard\DashboardSuperStore\DashboardSuperStore\obj\Debug\DashboardSuperStore.pdb
