@@ -1,0 +1,13 @@
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.Up2Date
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\all_projects\CSharp-Mini-Projects-Archive\Project13\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
